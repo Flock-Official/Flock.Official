@@ -11,7 +11,7 @@ const AuthScreen = ({ onButtonClick }) => {
 
   return (
     <View style={{ paddingTop: 50 }}>
-      <Text>Welcome to the App!</Text>
+      <Text>Welcome to the App homie!</Text>
       <StatusBar style="auto" />
       <Button title="Get Started With Two-Factor Authentication" onPress={handlePress} />
     </View>
