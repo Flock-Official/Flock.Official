@@ -2,7 +2,7 @@ import React from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { View, Text, Button, StyleSheet } from 'react-native';
 
-
+//audrey test
 const AuthScreen = ({ onButtonClick }) => {
   const handlePress = () => {
     onButtonClick();
